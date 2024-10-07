@@ -9,14 +9,14 @@ Cada carpeta tiene el nombre del proyecto seguido de la fecha en la que el profe
 
 ---
 
-## Listado de carpetas y contenido:
+##  Listado de carpetas y contenido: 
 
 ### 1. **CV-04/10**
-   - **Descripción**: Este proyecto contiene los archivos para mi página web de currículum. El archivo `index.html` muestra la información que quiero presentar en mi web personal, y el archivo `style.css` se encarga de darle estilo y disposición a los elementos HTML.
+   - **Descripción✍📋**: Este proyecto contiene los archivos para mi página web de currículum. El archivo `index.html` muestra la información que quiero presentar en mi web personal, y el archivo `style.css` se encarga de darle estilo y disposición a los elementos HTML.
    
-   - **Archivos**:
+   - **Archivos📁👩‍💻**:
      - `index.html`: Este archivo HTML contiene la estructura de mi currículum en línea. En él se encuentran secciones como experiencia laboral, habilidades, contacto, etc.
-     - `style.css`: Este archivo CSS define el diseño y el layout de la página. Aquí se configuran las propiedades visuales como los colores, las fuentes y la disposición de los elementos del currículum.
+     - ✨`style.css`✨: Este archivo CSS define el diseño y el layout de la página. Aquí se configuran las propiedades visuales como los colores, las fuentes y la disposición de los elementos del currículum.
 
 ---
 
