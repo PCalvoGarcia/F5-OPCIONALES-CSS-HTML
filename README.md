@@ -20,4 +20,4 @@ Cada carpeta tiene el nombre del proyecto seguido de la fecha en la que el profe
 
 ---
 
-A medida que se vayan añadiendo nuevos proyectos o se corrijan las tareas, este documento será 🕰actualizado🕰 con más 🕰información🕰.
+A medida que se vayan añadiendo nuevos proyectos o se corrijan las tareas, este documento será 🕰actualizado🕰 con más información.
