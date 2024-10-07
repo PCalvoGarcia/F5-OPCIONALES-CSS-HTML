@@ -3,7 +3,7 @@
 Este repositorio contiene todos los **ejercicios opcionales** relacionados con HTML, CSS y JavaScript. Los ejercicios están organizados en carpetas que representan proyectos individuales.
 
 - **Carpetas en mayúsculas ⏳**: Son ejercicios pendientes por corregir.
-- **Carpetas en minúsculas o camelCase 👍🏻**: Son ejercicios que ya han sido corregidos .
+- **Carpetas en minúsculas o camelCase ✔**: Son ejercicios que ya han sido corregidos .
 
 Cada carpeta tiene el nombre del proyecto seguido de la fecha en la que el profesor subió la tarea. La estructura y explicación de cada archivo dentro de las carpetas están detalladas a continuación.
 
