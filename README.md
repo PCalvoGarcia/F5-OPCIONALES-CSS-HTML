@@ -18,6 +18,14 @@ Cada carpeta tiene el nombre del proyecto seguido de la fecha en la que el profe
      - 📚`index.html`📚: Este archivo HTML contiene la estructura de mi currículum en línea. En él se encuentran secciones como experiencia laboral, habilidades, contacto, etc.
      - ✨`style.css`✨: Este archivo CSS define el diseño y el layout de la página. Aquí se configuran las propiedades visuales como los colores, las fuentes y la disposición de los elementos del currículum.
 
+
+### 2. **FLEXBOX_04-10 ⏳**
+   - **Descripción✍📋**:El objetivo de este ejercicio es tomar el archivo  `index.html` y aplicar estilos con `style.css` utilizando Flexbox para que el diseño final se parezca al layout proporcionado.
+   
+   - **Archivos📁👩‍💻**:
+     - 📚`index.html`📚: Este archivo HTML contiene la estructura de mi web. Este a sido proporcionado por el profesor.
+     - ✨`style.css`✨: Este archivo CSS define el diseño y el layout de la página. Aquí se configuran las propiedades visuales como los colores, las fuentes y la disposición de los elementos de la web para reproducir la imagen proporcionada de ejemplo.
+
 ---
 
 A medida que se vayan añadiendo nuevos proyectos o se corrijan las tareas, este documento será 🕰actualizado🕰 con más información.
