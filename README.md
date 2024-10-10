@@ -26,6 +26,18 @@ Cada carpeta tiene el nombre del proyecto seguido de la fecha en la que el profe
      - 📚`index.html`📚: Este archivo HTML contiene la estructura de mi web. Este a sido proporcionado por el profesor.
      - ✨`style.css`✨: Este archivo CSS define el diseño y el layout de la página. Aquí se configuran las propiedades visuales como los colores, las fuentes y la disposición de los elementos de la web para reproducir la imagen proporcionada de ejemplo.
 
+
+### 3. **GRID_04-10 ⏳**
+   - **Descripción✍📋**:El objetivo de este ejercicio es cerar el archivo  `index.html` y aplicar estilos con `style.css` utilizando grid para que el diseño sea una galeria de imagenes responsive.
+   
+   - **Archivos📁👩‍💻**:
+     - 📚`index.html`📚: Este archivo HTML contiene la estructura de mi web.
+     - ✨`style.css`✨: Este archivo CSS define el diseño y el layout de la página. Aquí se configuran las propiedades del grid para conseguir un diseño responsive.
+
+   - **Entrega📫📨**:
+     - ![PRUEBA DISEÑO RESPONSIVE👀](PUBLIC\grid_04-10\GRID RESPONSIVE.gif) 
+
+
 ---
 
 A medida que se vayan añadiendo nuevos proyectos o se corrijan las tareas, este documento será 🕰actualizado🕰 con más información.
