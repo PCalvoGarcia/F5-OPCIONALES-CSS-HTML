@@ -35,7 +35,7 @@ Cada carpeta tiene el nombre del proyecto seguido de la fecha en la que el profe
      - ✨`style.css`✨: Este archivo CSS define el diseño y el layout de la página. Aquí se configuran las propiedades del grid para conseguir un diseño responsive.
 
    - **Entrega📫📨**:
-     - ![PRUEBA DISEÑO RESPONSIVE👀](PUBLIC/grid_04-10/GRID%20RESPONSIVE.gif)
+      ![PRUEBA DISEÑO RESPONSIVE👀](PUBLIC/grid_04-10/GRID_RESPONSIVE.gif)
 
 
 
